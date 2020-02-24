@@ -1,0 +1,6 @@
+{
+    "storage_directory":"./uploads",
+    "node_count":10,
+    "size_per_slice":1024,
+    "redundancy_count":1
+}
